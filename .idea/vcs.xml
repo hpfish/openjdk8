@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev/corba" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev/hotspot" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev/jaxp" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev/jaxws" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev/jdk" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev/langtools" vcs="hg4idea" />
+    <mapping directory="$PROJECT_DIR$/jdk8u-dev/nashorn" vcs="hg4idea" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: jdk.nashorn.tools.Shell
+
+Name: jdk/nashorn/
+Implementation-Vendor: Oracle Corporation
+Name: jdk/nashorn/
+Implementation-Title: Oracle Nashorn
+Implementation-Version: 1.8.0-internal-gao_2018_09_08_13_25-b00

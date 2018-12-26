@@ -1,0 +1,9 @@
+-XDignore.symbol.file=true -quiet -use -keywords -Xdoclint:none -Xprofilespath /Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/make/profile-rtjar-includes.txt -Xdocrootparent https://docs.oracle.com/javase/7/docs
+-sourcepath '/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/share/classes:/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/build/macosx-x86_64-normal-server-release/jdk/impsrc:/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/build/macosx-x86_64-normal-server-release/jdk/gensrc:/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/build/macosx-x86_64-normal-server-release/jdk/gendocsrc_rmic:/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/solaris/classes:/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/windows/classes:/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/nashorn/src/:/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/share/doc/stub'
+-encoding 'ascii'
+-overview '/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/share/classes/com/sun/security/auth/jaas-overview.html'
+-doctitle 'Java&trade; Authentication and Authorization Service'
+-windowtitle 'Java Authentication and Authorization Service b00'
+-header '<strong>Java Authentication and Authorization Service</strong><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-bottom '<font size="-1"><br> Copyright &#x00a9; 1998, 2018, Oracle and/or its affiliates.  All rights reserved.</font><br><strong>DRAFT&nbsp;internal-b00</strong>'
+-linkoffline '../../../../../api' '/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/build/macosx-x86_64-normal-server-release/docs/api/'
