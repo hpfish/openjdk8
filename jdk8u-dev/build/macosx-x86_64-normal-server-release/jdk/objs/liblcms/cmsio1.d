@@ -1,5 +1,0 @@
-/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/build/macosx-x86_64-normal-server-release/jdk/objs/liblcms/cmsio1.o: \
-  /Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/share/native/sun/java2d/cmm/lcms/cmsio1.c \
-  /Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/share/native/sun/java2d/cmm/lcms/lcms2_internal.h \
-  /Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/share/native/sun/java2d/cmm/lcms/lcms2_plugin.h \
-  /Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/jdk/src/share/native/sun/java2d/cmm/lcms/lcms2.h

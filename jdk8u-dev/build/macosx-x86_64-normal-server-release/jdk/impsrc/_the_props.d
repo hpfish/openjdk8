@@ -1,1 +1,0 @@
-PROPS_ARE_CREATED = yes

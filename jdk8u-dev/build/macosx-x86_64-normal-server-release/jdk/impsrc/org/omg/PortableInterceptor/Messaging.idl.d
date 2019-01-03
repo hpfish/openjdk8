@@ -1,2 +1,0 @@
-/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/Messaging/SYNC_WITH_TRANSPORT.java: /Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl
-/Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/build/macosx-x86_64-normal-server-release/corba/gensrc/org/omg/Messaging/SyncScopeHelper.java: /Users/gao/WorkSpace/Java/OpenJDK/jdk8u-dev/corba/src/share/classes/org/omg/PortableInterceptor/Messaging.idl
